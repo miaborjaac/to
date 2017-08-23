@@ -1,7 +1,7 @@
 class WelcomeController < ApplicationController
-    
-    def index
-        puts "Hola Mundo"
-        nombre = "prueba"
-    end
+  def contact
+  end
+
+  def about
+  end
 end
